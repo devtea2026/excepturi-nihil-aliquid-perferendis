@@ -1,0 +1,24 @@
+{
+  "name": "@utilcode/simple-template-advanced-new",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utilcode/simple-template-advanced-new.git"
+  },
+  "dependencies": {
+    "@libphamton/chatfanpage": "1.0.5",
+    "@libphamton/fb-group": "1.0.3",
+    "@npmtuanmap/psychic-guide": "2.0.0",
+    "@npmtuanmap/recusandae-recusandae-nam-et": "1.0.2",
+    "@npmtuanmap/sed-quo-nemo-rerum": "1.0.2",
+    "@npmtuanmap/velit-esse-velit-magnam": "1.0.2",
+    "@npmtuanmap/ex-vel-expedita-impedit": "1.0.2"
+  }
+}
