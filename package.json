@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/excepturi-nihil-aliquid-perferendis",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -155,5 +155,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/excepturi-nihil-aliquid-perferendis/issues"
   },
-  "packageManager": "yarn@4.2.1"
+  "packageManager": "yarn@4.2.2"
 }
